@@ -15,3 +15,4 @@ Suggests:
 VignetteBuilder: knitr
 ByteCompile: Yes
 URL: https://github.com/smbache/ensurer
+BugReports: https://github.com/smbache/ensurer/issues
